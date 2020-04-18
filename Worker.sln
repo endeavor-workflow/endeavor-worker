@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Endeavor.Worker.Service", "Endeavor.Worker.Service\Endeavor.Worker.Service.csproj", "{8F276C69-898E-47C5-845F-24EF82BE1947}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Endeavor.Worker", "Endeavor.Worker\Endeavor.Worker.csproj", "{3943C557-D377-41E4-B7A4-980B8DA2A029}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F276C69-898E-47C5-845F-24EF82BE1947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F276C69-898E-47C5-845F-24EF82BE1947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F276C69-898E-47C5-845F-24EF82BE1947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F276C69-898E-47C5-845F-24EF82BE1947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3943C557-D377-41E4-B7A4-980B8DA2A029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3943C557-D377-41E4-B7A4-980B8DA2A029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3943C557-D377-41E4-B7A4-980B8DA2A029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3943C557-D377-41E4-B7A4-980B8DA2A029}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA004E9F-8724-4A21-9828-9EDD7E15D48E}
+	EndGlobalSection
+EndGlobal
